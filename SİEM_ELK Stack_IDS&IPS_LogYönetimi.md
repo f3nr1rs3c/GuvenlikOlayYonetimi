@@ -1,10 +1,7 @@
-# 📘 HAFTA 9 - Quiz Soruları ve Cevapları
 
-Bu dosyada **Güvenlik Olay Yönetimi** dersi kapsamında 9. haftada yapılan quiz soruları ve doğru cevapları yer almaktadır. Sorular, SIEM sistemleri, Splunk, ELK Stack, log yönetimi ve IDS/IPS sistemleri gibi konuları kapsamaktadır.
-
----
 
 ## ✅ Soru ve Cevaplar
+Sorular, SIEM sistemleri, Splunk, ELK Stack, log yönetimi ve IDS/IPS sistemleri gibi konuları kapsamaktadır.
 
 ### 1. SIEM sistemlerinin temel amacı nedir?
 **C)** Log verilerini merkezi olarak toplamak ve analiz etmek
